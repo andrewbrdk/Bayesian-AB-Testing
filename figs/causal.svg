@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.56184204"
-     inkscape:cx="238.5012"
-     inkscape:cy="277.65811"
+     inkscape:zoom="0.70417908"
+     inkscape:cx="330.88174"
+     inkscape:cy="404.7266"
      inkscape:window-width="1280"
      inkscape:window-height="691"
      inkscape:window-x="0"
@@ -366,11 +366,11 @@
        d="m 161.55345,142.25254 c 0.0101,-5.90678 0.0101,-5.90678 0.0101,-5.90678 z"
        id="path2422" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.23;stroke-dasharray:none;marker-mid:url(#X);marker-end:"
+       style="fill:none;stroke:#000000;stroke-width:0.23;stroke-dasharray:0.92000002,0.92000002;marker-mid:url(#X);stroke-dashoffset:0"
        d="m 161.28482,103.99275 v 3.59615 l 0,3.15279"
        id="path3420" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.23;stroke-dasharray:none;marker-mid:url(#marker3870)"
+       style="fill:none;stroke:#000000;stroke-width:0.23;stroke-dasharray:0.92000002,0.92000002;marker-mid:url(#marker3870);stroke-dashoffset:0"
        d="m 171.08083,114.83377 6.92345,-6.92345 5.15678,-5.15678"
        id="path3866" />
     <text
