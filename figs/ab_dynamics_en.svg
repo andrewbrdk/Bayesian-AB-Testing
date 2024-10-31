@@ -4,7 +4,7 @@
    height="600"
    version="1.1"
    id="svg75"
-   sodipodi:docname="ab_dynamics.svg"
+   sodipodi:docname="ab_dynamics_en.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    inkscape:export-filename="ab_dynamics.png"
    inkscape:export-xdpi="96"
@@ -102,9 +102,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.74921255"
-     inkscape:cx="298.98058"
-     inkscape:cy="302.98478"
+     inkscape:zoom="0.70416413"
+     inkscape:cx="370.65222"
+     inkscape:cy="247.10148"
      inkscape:window-width="1280"
      inkscape:window-height="691"
      inkscape:window-x="0"
@@ -112,17 +112,14 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg75" />
   <path
-     style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.5"
-     d="m 224.92857,179.95759 c 164.22342,-54.31514 410.87804,-54.95415 410.87804,-54.95415 l -0.639,-45.767242 c 0,0 -279.2437,-9.58502 -410.23904,-61.344153 z"
-     id="path535"
-     sodipodi:nodetypes="ccccc"
-     inkscape:export-filename="ab_dynamics.png"
-     inkscape:export-xdpi="96"
-     inkscape:export-ydpi="96" />
-  <path
      style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.3"
      d="m 226.20657,85.626217 c 130.99534,51.759133 410.23904,61.344153 410.23904,61.344153 l -0.639,30.03307 c 0,0 -246.65462,0.63901 -410.87804,54.95415 z"
      id="path364"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.5"
+     d="m 224.92857,179.95759 c 164.22342,-54.31514 410.87804,-54.95415 410.87804,-54.95415 l -0.639,-45.767242 c 0,0 -279.2437,-9.58502 -410.23904,-61.344153 z"
+     id="path535"
      sodipodi:nodetypes="ccccc" />
   <g
      id="g73"
@@ -155,6 +152,18 @@
        fill="none"
        style="marker-end:url(#Arrow1L)" />
     <line
+       stroke-dasharray="5.15929, 5.15929"
+       stroke-linecap="undefined"
+       stroke-linejoin="undefined"
+       id="svg_4"
+       y2="203"
+       x2="635.92236"
+       y1="203"
+       x1="226"
+       stroke="#000000"
+       fill="none"
+       style="fill:none;stroke:#b3b3b3;stroke-width:1.03186" />
+    <line
        stroke-linecap="undefined"
        stroke-linejoin="undefined"
        id="svg_5"
@@ -172,24 +181,24 @@
        font-family="'Noto Sans JP'"
        font-size="24px"
        id="svg_6"
-       y="272"
-       x="185.82393"
+       y="278"
+       x="185"
        stroke-dasharray="5, 5"
        stroke-width="0"
        stroke="#000000"
-       fill="#000000">А</text>
+       fill="#000000">A</text>
     <text
        xml:space="preserve"
        text-anchor="start"
        font-family="'Noto Sans JP'"
        font-size="24px"
        id="svg_7"
-       y="212"
-       x="186.83194"
+       y="214"
+       x="185"
        stroke-dasharray="5, 5"
        stroke-width="0"
        stroke="#000000"
-       fill="#000000">Б</text>
+       fill="#000000">B</text>
     <text
        xml:space="preserve"
        text-anchor="start"
@@ -197,11 +206,11 @@
        font-size="24px"
        id="svg_8"
        y="384"
-       x="384.49512"
+       x="376"
        stroke-dasharray="5, 5"
        stroke-width="0"
        stroke="#000000"
-       fill="#000000">Данные</text>
+       fill="#000000"># Data points</text>
     <text
        xml:space="preserve"
        text-anchor="start"
@@ -209,11 +218,11 @@
        font-size="24px"
        id="svg_9"
        y="129"
-       x="100"
+       x="134"
        stroke-dasharray="5, 5"
        stroke-width="0"
        stroke="#000000"
-       fill="#000000">Метрика</text>
+       fill="#000000">Metric</text>
     <path
        id="svg_16"
        d="M 224,298"
@@ -226,18 +235,6 @@
        opacity="0"
        stroke="#000000"
        fill="none" />
-    <line
-       stroke-dasharray="5.15929, 5.15929"
-       stroke-linecap="undefined"
-       stroke-linejoin="undefined"
-       id="svg_4"
-       y2="203"
-       x2="635.92236"
-       y1="203"
-       x1="226"
-       stroke="#000000"
-       fill="none"
-       style="fill:none;stroke:#f2f2f2;stroke-width:1.03186" />
   </g>
   <path
      style="fill:none;stroke:#000000"
@@ -245,7 +242,7 @@
      id="path254"
      sodipodi:nodetypes="cccccccccc" />
   <path
-     style="fill:none;stroke:#f2f2f2"
+     style="fill:none;stroke:#b3b3b3"
      d="m 226.20657,69.974429 66.45617,72.846181 63.90015,-53.676128 53.67615,44.091108 47.28612,-39.618099 45.36911,22.365059 35.1451,-24.282066 34.50608,-1.917004 27.47707,24.92106 35.468,-16.806417"
      id="path495"
      sodipodi:nodetypes="cccccccccc" />
@@ -323,17 +320,15 @@
        font-family="'Noto Sans JP'"
        font-size="24px"
        id="text592"
-       y="210"
+       y="214"
        x="185"
        stroke-dasharray="5, 5"
        stroke-width="0"
        stroke="#000000"
        fill="#000000"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:5, 5"><tspan
+       style="-inkscape-font-specification:'Noto Sans JP, Normal';font-family:'Noto Sans JP';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:5, 5"><tspan
          sodipodi:role="line"
-         id="tspan662"
-         x="185"
-         y="210">1</tspan></text>
+         id="tspan662">1</tspan></text>
     <text
        xml:space="preserve"
        text-anchor="start"
@@ -341,11 +336,11 @@
        font-size="24px"
        id="text594"
        y="384"
-       x="384.49512"
+       x="376"
        stroke-dasharray="5, 5"
        stroke-width="0"
        stroke="#000000"
-       fill="#000000">Данные</text>
+       fill="#000000"># Data points</text>
     <text
        xml:space="preserve"
        text-anchor="start"
@@ -362,7 +357,7 @@
          sodipodi:role="line"
          id="tspan656"
          x="134"
-         y="127">P(Б&gt;А)</tspan><tspan
+         y="127">P(B&gt;A)</tspan><tspan
          sodipodi:role="line"
          id="tspan658"
          x="134"
@@ -382,10 +377,7 @@
   </g>
   <path
      style="fill:none;stroke:#000000"
-     d="m 226.20657,447.78348 66.45617,30.4721 63.26116,-34.3891 54.0763,5.95768 49.04179,-28.25421 40.9736,-8.31066 38.66278,-4.66407 33.86708,-0.25846 27.47707,-1.86436 35.7841,0.0263"
+     d="m 226.20657,447.78348 66.45617,30.4721 63.26116,-34.3891 53.03713,-4.43403 51.12013,-9.54913 44.09111,-20.78071 34.5061,-0.50739 33.86708,-0.25846 27.47707,-1.86436 35.7841,0.0263"
      id="path664"
-     sodipodi:nodetypes="cccccccccc"
-     inkscape:export-filename="ab_dynamics.png"
-     inkscape:export-xdpi="96"
-     inkscape:export-ydpi="96" />
+     sodipodi:nodetypes="cccccccccc" />
 </svg>
