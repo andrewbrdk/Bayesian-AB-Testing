@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="bayes_rain.svg"
+   inkscape:export-filename="bayes_rain.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.6949202"
+     inkscape:cx="430.26523"
+     inkscape:cy="289.24184"
+     inkscape:window-width="1280"
+     inkscape:window-height="691"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:2.46944px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.529167"
+       x="23.940979"
+       y="28.574717"
+       id="text1071"><tspan
+         sodipodi:role="line"
+         id="tspan1069"
+         style="stroke-width:0.529167"
+         x="23.940979"
+         y="28.574717" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.46944px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.529167"
+       x="27.030136"
+       y="34.366886"
+       id="text1075"><tspan
+         sodipodi:role="line"
+         id="tspan1073"
+         style="stroke-width:0.529167"
+         x="27.030136"
+         y="34.366886" /></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.529"
+       id="rect427"
+       width="116.86776"
+       height="63.389755"
+       x="60.054901"
+       y="57.082314"
+       inkscape:export-filename="bayes_square.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.528998"
+       id="rect483"
+       width="24.151537"
+       height="63.389755"
+       x="60.054897"
+       y="57.082314" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.528999"
+       id="rect485"
+       width="24.185909"
+       height="35.637028"
+       x="60.054901"
+       y="84.835045" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.529"
+       id="rect487"
+       width="92.591927"
+       height="13.387819"
+       x="84.330719"
+       y="107.08425" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
+       x="129.46416"
+       y="50.781776"
+       id="text361"><tspan
+         sodipodi:role="line"
+         id="tspan359"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
+         x="129.46416"
+         y="50.781776">P(Без дождя)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
+       x="71.477928"
+       y="50.781776"
+       id="text415"><tspan
+         sodipodi:role="line"
+         id="tspan413"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
+         x="71.477928"
+         y="50.781776">P(Дождь)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
+       x="72.314178"
+       y="104.2276"
+       id="text419"><tspan
+         sodipodi:role="line"
+         id="tspan417"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
+         x="72.314178"
+         y="104.2276">Облачно,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
+         x="72.314178"
+         y="110.40121"
+         id="tspan411">дождь</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
+       x="130.68593"
+       y="115.20797"
+       id="text423"><tspan
+         sodipodi:role="line"
+         id="tspan421"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
+         x="130.68593"
+         y="115.20797">Облачно, без дождя</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
+       x="32.626675"
+       y="86.235939"
+       id="text427"><tspan
+         sodipodi:role="line"
+         id="tspan425"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
+         x="32.626675"
+         y="86.235939">P(Облачно|Дождь)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
+       x="209.89757"
+       y="110.04842"
+       id="text431"><tspan
+         sodipodi:role="line"
+         id="tspan429"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
+         x="209.89757"
+         y="110.04842">P(Облачно|Без дождя)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
+       x="53.79335"
+       y="141.26926"
+       id="text435"
+       inkscape:export-filename="bayes_rain.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan433"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
+         x="53.79335"
+         y="141.26926" /></text>
+  </g>
+</svg>
