@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="297mm"
+   width="450mm"
    height="210mm"
-   viewBox="0 0 297 210"
+   viewBox="0 0 450 210"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.44193637"
-     inkscape:cx="540.80184"
-     inkscape:cy="190.07261"
+     inkscape:zoom="0.71964929"
+     inkscape:cx="872.64729"
+     inkscape:cy="311.26273"
      inkscape:window-width="1280"
      inkscape:window-height="691"
      inkscape:window-x="0"
@@ -34,11 +34,146 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker1784"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1782"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1L"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="4.75"
+       markerHeight="2.7142856"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L"
+         transform="scale(-0.5)" />
+    </marker>
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.529"
+       id="rect1555"
+       width="6.2906437"
+       height="14.149089"
+       x="372.30194"
+       y="111.61459" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.529"
+       id="rect1557"
+       width="6.2906437"
+       height="10.434952"
+       x="398.87527"
+       y="115.32874" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
+       x="355.92468"
+       y="133.9138"
+       id="text1563"><tspan
+         sodipodi:role="line"
+         id="tspan1561"
+         style="font-size:4.93889px;fill:#000000;stroke:none;stroke-width:0.529167"
+         x="355.92468"
+         y="133.9138">H<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan1559">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
+       x="376.03299"
+       y="133.89775"
+       id="text1569"><tspan
+         sodipodi:role="line"
+         id="tspan1567"
+         style="font-size:4.93889px;fill:#000000;stroke:none;stroke-width:0.529167"
+         x="376.03299"
+         y="133.89775">H<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan1565">3</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
+       x="402.49127"
+       y="133.9138"
+       id="text1575"><tspan
+         sodipodi:role="line"
+         id="tspan1573"
+         style="font-size:4.93889px;fill:#000000;stroke:none;stroke-width:0.529167"
+         x="402.49127"
+         y="133.9138">H<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan1571">N</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529;marker-start:url(#Arrow1L);marker-end:url(#Arrow1L)"
+       d="m 349.48257,94.156783 v 32.502497 h 62.23686"
+       id="path1577"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.529"
+       id="rect1579"
+       width="6.2906437"
+       height="19.737322"
+       x="353.1369"
+       y="106.02638" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
+       x="350.19666"
+       y="88.899895"
+       id="text1585"><tspan
+         sodipodi:role="line"
+         id="tspan1583"
+         style="font-size:4.93889px;fill:#000000;stroke:none;stroke-width:0.529167"
+         x="350.19666"
+         y="88.899895">P(H|D)<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan1581" /></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.529"
+       x="388.96362"
+       y="123.02959"
+       id="text1589"><tspan
+         sodipodi:role="line"
+         id="tspan1587"
+         style="font-size:11.2889px;fill:#000000;stroke-width:0.529"
+         x="388.96362"
+         y="123.02959">...</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.528999"
+       id="rect1591"
+       width="6.2906437"
+       height="16.275106"
+       x="362.71942"
+       y="109.4886" />
     <text
        xml:space="preserve"
        style="font-size:2.46944px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.529167"
@@ -64,8 +199,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="253.90816"
-       y="54.563267"
+       x="375.61627"
+       y="42.392429"
        id="text1193"
        inkscape:export-filename="bayes_hypotheses_square.png"
        inkscape:export-xdpi="96"
@@ -73,470 +208,462 @@
          sodipodi:role="line"
          id="tspan1191"
          style="font-size:4.93889px;fill:#000000;stroke:none;stroke-width:0.529167"
-         x="253.90816"
-         y="54.563267">Апостериорное</tspan><tspan
+         x="375.61627"
+         y="42.392429">Апостериорное</tspan><tspan
          sodipodi:role="line"
          style="font-size:4.93889px;fill:#000000;stroke:none;stroke-width:0.529167"
-         x="253.90816"
-         y="60.736881"
-         id="tspan495">распределение</tspan></text>
+         x="375.61627"
+         y="48.56604"
+         id="tspan495">распределение гипотез H<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan1854">i</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="24.254885"
-       y="65.516464"
+       x="53.978455"
+       y="42.392429"
        id="text1197"><tspan
          sodipodi:role="line"
-         id="tspan1195"
          style="font-size:4.93889px;fill:#000000;stroke:none;stroke-width:0.529167"
-         x="24.254885"
-         y="65.516464">Априорное</tspan><tspan
+         x="53.978455"
+         y="42.392429"
+         id="tspan1856">Априорное  </tspan><tspan
          sodipodi:role="line"
          style="font-size:4.93889px;fill:#000000;stroke:none;stroke-width:0.529167"
-         x="24.254885"
-         y="71.690079"
-         id="tspan485">распределение</tspan></text>
+         x="53.978455"
+         y="48.56604"
+         id="tspan1850">распределение гипотез H<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan1852">i</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="149.02065"
-       y="149.24358"
+       x="212.52071"
+       y="45.595299"
        id="text1201"><tspan
          sodipodi:role="line"
          id="tspan1199"
          style="font-size:4.93889px;fill:#000000;stroke:none;stroke-width:0.529167"
-         x="149.02065"
-         y="149.24358">Правдоподобие P(D|H<tspan
+         x="212.52071"
+         y="45.595299">Правдоподобие P(D|H<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan1101">i</tspan>)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="89.099525"
-       y="94.972771"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
+       x="119.95275"
+       y="100.26443"
        id="text1241"><tspan
          sodipodi:role="line"
          id="tspan1239"
-         style="font-size:4.93889px;stroke-width:0.529167"
-         x="89.099525"
-         y="94.972771">Данные D</tspan></text>
+         style="font-size:3.88056px;stroke-width:0.529167"
+         x="119.95275"
+         y="100.26443">Данные D</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="38.071472"
-       y="147.31352"
-       id="text1245"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
+       x="58.096676"
+       y="81.491585"
+       id="text847"><tspan
          sodipodi:role="line"
-         style="font-size:4.93889px;stroke-width:0.529167"
-         x="38.071472"
-         y="147.31352"
-         id="tspan1247">Гипотезы H<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan1099">i</tspan></tspan></text>
+         id="tspan845"
+         style="font-size:3.88056px;fill:#000000;stroke:none;stroke-width:0.529167"
+         x="58.096676"
+         y="81.491585">P(H<tspan
+   style="font-size:3.88056px;baseline-shift:sub"
+   id="tspan1089">3</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
+       x="85.613335"
+       y="114.82907"
+       id="text851"><tspan
+         sodipodi:role="line"
+         id="tspan849"
+         style="font-size:3.88056px;fill:#000000;stroke:none;stroke-width:0.529167"
+         x="85.613335"
+         y="114.82907">P(H<tspan
+   style="font-size:3.88056px;baseline-shift:sub"
+   id="tspan1091">N</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
+       x="40.634174"
+       y="97.36657"
+       id="text855"><tspan
+         sodipodi:role="line"
+         id="tspan853"
+         style="font-size:3.88056px;fill:#000000;stroke:none;stroke-width:0.529167"
+         x="40.634174"
+         y="97.36657">P(H<tspan
+   style="font-size:3.88056px;baseline-shift:sub"
+   id="tspan1085">1</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
+       x="309.26062"
+       y="94.443604"
+       id="text973"><tspan
+         sodipodi:role="line"
+         style="font-size:3.88056px;stroke-width:0.529167"
+         x="309.26062"
+         y="94.443604"
+         id="tspan975">Соотношение Байеса</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.88056px;stroke-width:0.529167"
+         x="309.26062"
+         y="99.294304"
+         id="tspan991">P(H<tspan
+   style="font-size:3.88056px;baseline-shift:sub"
+   id="tspan1111">i</tspan>|D) ~ P(D|H<tspan
+   style="font-size:3.88056px;baseline-shift:sub"
+   id="tspan1113">i</tspan>) P(H<tspan
+   style="font-size:3.88056px;baseline-shift:sub"
+   id="tspan1115">i</tspan>)</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.529"
-       id="rect427"
-       width="76.957619"
-       height="44.255123"
-       x="109.72034"
-       y="76.216972" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.528999"
-       id="rect483"
-       width="10.584423"
-       height="44.255123"
-       x="109.72034"
-       y="76.216972" />
-    <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.528999"
-       id="rect485"
-       width="10.584423"
-       height="15.192059"
-       x="109.72034"
-       y="105.28001" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.528999"
-       id="rect529"
-       width="10.584423"
-       height="44.255123"
-       x="120.4502"
-       y="76.216972" />
-    <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.528999"
-       id="rect531"
-       width="10.584423"
-       height="22.457827"
-       x="120.4502"
-       y="98.014244" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.528999"
-       id="rect533"
-       width="17.199692"
-       height="44.255123"
-       x="131.18007"
-       y="76.216972" />
-    <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.528999"
-       id="rect535"
-       width="17.199692"
-       height="8.5868177"
-       x="131.18007"
-       y="111.88527" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.528999"
-       id="rect537"
-       width="13.010023"
-       height="44.255123"
-       x="148.56981"
-       y="76.216972" />
-    <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.528999"
-       id="rect539"
-       width="13.010023"
-       height="13.871011"
-       x="148.56981"
-       y="106.60106" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.528999"
-       id="rect541"
-       width="19.625292"
-       height="44.255123"
-       x="161.51965"
-       y="76.216972" />
-    <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.528999"
-       id="rect543"
-       width="19.625292"
-       height="3.9631474"
-       x="161.51965"
-       y="116.50893" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.528999"
-       id="rect545"
-       width="5.5127196"
-       height="44.255123"
-       x="181.18208"
-       y="76.216972" />
-    <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.528999"
-       id="rect547"
-       width="5.5127196"
-       height="19.37538"
-       x="181.18208"
-       y="101.09669" />
-    <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.529"
-       id="rect549"
-       width="7.6263118"
-       height="10.8468"
-       x="9.1786919"
-       y="109.62527" />
-    <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.529"
-       id="rect551"
-       width="7.6263118"
-       height="10.8468"
-       x="19.842272"
-       y="109.62527" />
-    <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.529"
        id="rect553"
-       width="7.6263118"
-       height="17.38703"
-       x="30.50585"
-       y="103.08504" />
+       width="6.2906437"
+       height="39.4282"
+       x="54.802071"
+       y="86.335518" />
     <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.529"
-       id="rect555"
-       width="7.6263118"
-       height="8.1217031"
-       x="41.169422"
-       y="112.35036" />
-    <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.529"
-       id="rect557"
-       width="7.6263118"
-       height="16.296991"
-       x="51.833004"
-       y="104.17509" />
-    <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.529"
+       style="fill:none;stroke:#000000;stroke-width:0.529"
        id="rect559"
-       width="7.6263118"
-       height="2.9440193"
-       x="62.496593"
-       y="117.52802" />
-    <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.529"
-       id="rect695"
-       width="7.6263118"
-       height="10.8468"
-       x="226.1371"
-       y="109.62527" />
-    <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.529"
-       id="rect697"
-       width="7.6263118"
-       height="10.8468"
-       x="236.80069"
-       y="109.62527" />
-    <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.529"
-       id="rect699"
-       width="7.6263118"
-       height="17.38703"
-       x="247.46426"
-       y="103.08504" />
-    <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.529"
-       id="rect701"
-       width="7.6263118"
-       height="8.1217031"
-       x="258.12784"
-       y="112.35036" />
-    <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.529"
-       id="rect703"
-       width="7.6263118"
-       height="16.296991"
-       x="268.79141"
-       y="104.17509" />
-    <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.529"
-       id="rect705"
-       width="7.6263118"
-       height="2.9440193"
-       x="279.45499"
-       y="117.52802" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="139.49562"
-       y="69.868568"
-       id="text815"><tspan
-         sodipodi:role="line"
-         id="tspan813"
-         style="font-size:2.82222px;fill:#000000;stroke:none;stroke-width:0.529167"
-         x="139.49562"
-         y="69.868568">P(H<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan1121">3</tspan>)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="181.82899"
-       y="69.868568"
-       id="text819"><tspan
-         sodipodi:role="line"
-         id="tspan817"
-         style="font-size:2.82222px;fill:#000000;stroke:none;stroke-width:0.529167"
-         x="181.82899"
-         y="69.868568">P(H<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan1119">N</tspan>)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="113.03728"
-       y="69.868568"
-       id="text827"><tspan
-         sodipodi:role="line"
-         id="tspan825"
-         style="font-size:2.82222px;fill:#000000;stroke:none;stroke-width:0.529167"
-         x="113.03728"
-         y="69.868568">P(H<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan1125">1</tspan>)</tspan></text>
+       width="6.2906437"
+       height="6.6760902"
+       x="81.375458"
+       y="119.08756" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="11.966461"
-       y="128.07689"
+       x="38.424793"
+       y="133.91377"
        id="text843"><tspan
          sodipodi:role="line"
          id="tspan841"
          style="font-size:4.93889px;fill:#000000;stroke:none;stroke-width:0.529167"
-         x="11.966461"
-         y="128.07689">H<tspan
+         x="38.424793"
+         y="133.91377">H<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan1097">1</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="33.133125"
-       y="96.326889"
-       id="text847"><tspan
-         sodipodi:role="line"
-         id="tspan845"
-         style="font-size:2.82222px;fill:#000000;stroke:none;stroke-width:0.529167"
-         x="33.133125"
-         y="96.326889">P(H<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan1089">3</tspan>)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="75.466461"
-       y="112.20188"
-       id="text851"><tspan
-         sodipodi:role="line"
-         id="tspan849"
-         style="font-size:2.82222px;fill:#000000;stroke:none;stroke-width:0.529167"
-         x="75.466461"
-         y="112.20188">P(H<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan1091">N</tspan>)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="11.966461"
-       y="101.61855"
-       id="text855"><tspan
-         sodipodi:role="line"
-         id="tspan853"
-         style="font-size:2.82222px;fill:#000000;stroke:none;stroke-width:0.529167"
-         x="11.966461"
-         y="101.61855">P(H<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan1085">1</tspan>)</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="33.133125"
-       y="128.07689"
+       x="58.533134"
+       y="133.89772"
        id="text859"><tspan
          sodipodi:role="line"
          id="tspan857"
          style="font-size:4.93889px;fill:#000000;stroke:none;stroke-width:0.529167"
-         x="33.133125"
-         y="128.07689">H<tspan
+         x="58.533134"
+         y="133.89772">H<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan1095">3</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="64.883133"
-       y="128.07689"
+       x="84.991447"
+       y="133.91377"
        id="text863"><tspan
          sodipodi:role="line"
          id="tspan861"
          style="font-size:4.93889px;fill:#000000;stroke:none;stroke-width:0.529167"
-         x="64.883133"
-         y="128.07689">H<tspan
+         x="84.991447"
+         y="133.91377">H<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan1093">N</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529;marker-start:url(#Arrow1L);marker-end:url(#Arrow1L)"
+       d="M 31.982429,94.156774 V 126.65927 H 94.219247"
+       id="path501"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.529"
+       id="rect1441"
+       width="6.2906437"
+       height="24.597057"
+       x="35.637024"
+       y="101.16666" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="253.85655"
-       y="147.31352"
-       id="text969"><tspan
+       x="25.288345"
+       y="93.662399"
+       id="text1447"><tspan
          sodipodi:role="line"
-         style="font-size:4.93889px;stroke-width:0.529167"
-         x="253.85655"
-         y="147.31352"
-         id="tspan967">Гипотезы H<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan1103">i</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="209.7496"
-       y="94.443604"
-       id="text973"><tspan
-         sodipodi:role="line"
-         style="font-size:4.93889px;stroke-width:0.529167"
-         x="209.7496"
-         y="94.443604"
-         id="tspan975">Соотношение Байеса</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:4.93889px;stroke-width:0.529167"
-         x="209.7496"
-         y="100.61722"
-         id="tspan991">P(H<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan1111">i</tspan>|D) ~ P(D|H<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan1113">i</tspan>) P(H<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan1115">i</tspan>)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="229.9832"
-       y="128.07689"
-       id="text979"><tspan
-         sodipodi:role="line"
-         id="tspan977"
+         id="tspan1445"
          style="font-size:4.93889px;fill:#000000;stroke:none;stroke-width:0.529167"
-         x="229.9832"
-         y="128.07689">H<tspan
+         x="25.288345"
+         y="93.662399">P(H)<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan1109">1</tspan></tspan></text>
+   id="tspan1443" /></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="251.14989"
-       y="128.07689"
-       id="text983"><tspan
+       style="font-size:11.2889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.529"
+       x="71.463791"
+       y="123.02956"
+       id="text1551"><tspan
          sodipodi:role="line"
-         id="tspan981"
-         style="font-size:4.93889px;fill:#000000;stroke:none;stroke-width:0.529167"
-         x="251.14989"
-         y="128.07689">H<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan1107">3</tspan></tspan></text>
+         id="tspan1549"
+         style="font-size:11.2889px;fill:#000000;stroke-width:0.529"
+         x="71.463791"
+         y="123.02956">...</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.529"
+       id="rect1553"
+       width="6.2906437"
+       height="13.475793"
+       x="45.219551"
+       y="112.28791" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.529;marker-end:url(#marker1784)"
+       d="M 99.886093,105.36908 H 136.49979"
+       id="path1780" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.529;marker-end:url(#marker1784)"
+       d="m 290.38621,105.36908 h 36.6137"
+       id="path1818" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.529"
+       id="rect1868"
+       width="6.2906437"
+       height="38.532169"
+       x="72.741768"
+       y="-232.34056"
+       transform="rotate(90)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.529"
+       id="rect1872"
+       width="6.2906437"
+       height="24.15871"
+       x="72.741768"
+       y="-177.65956"
+       transform="rotate(90)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.529"
+       id="rect1874"
+       width="6.2906437"
+       height="13.475793"
+       x="72.741768"
+       y="-192.46745"
+       transform="rotate(90)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.529"
+       id="rect1888"
+       width="6.2906437"
+       height="7.9305344"
+       x="72.741768"
+       y="-275.09702"
+       transform="rotate(90)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="282.89987"
-       y="128.07689"
-       id="text987"><tspan
+       style="font-size:11.2889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.529"
+       x="249.75356"
+       y="76.491058"
+       id="text1892"><tspan
          sodipodi:role="line"
-         id="tspan985"
-         style="font-size:4.93889px;fill:#000000;stroke:none;stroke-width:0.529167"
-         x="282.89987"
-         y="128.07689">H<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan1105">N</tspan></tspan></text>
+         id="tspan1890"
+         style="font-size:11.2889px;fill:#000000;stroke-width:0.529"
+         x="249.75356"
+         y="76.491058">...</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.529"
+       id="rect1894"
+       width="122.32298"
+       height="44.255123"
+       x="153.28586"
+       y="82.566971" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.528998"
+       id="rect1896"
+       width="25.081949"
+       height="44.255123"
+       x="153.28586"
+       y="82.566971" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.528998"
+       id="rect1898"
+       width="25.081949"
+       height="15.192059"
+       x="153.28586"
+       y="111.63" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="114.62479"
-       y="117.49354"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
+       x="165.71623"
+       y="120.23303"
        id="text995"><tspan
          sodipodi:role="line"
          id="tspan993"
-         style="font-size:2.82222px;fill:#000000;stroke:none;stroke-width:0.529167"
-         x="114.62479"
-         y="117.49354">P(D|H<tspan
-   style="font-size:65%;baseline-shift:sub"
+         style="font-size:3.88056px;fill:#000000;stroke:none;stroke-width:0.529167"
+         x="165.71623"
+         y="120.23303">P(D|H<tspan
+   style="font-size:3.88056px;baseline-shift:sub"
    id="tspan1127">1</tspan>)</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.528998"
+       id="rect1900"
+       width="14.732622"
+       height="44.255123"
+       x="178.37492"
+       y="82.566971" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.528998"
+       id="rect1902"
+       width="14.732622"
+       height="22.457827"
+       x="178.37492"
+       y="104.36423" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.528998"
+       id="rect1904"
+       width="39.216602"
+       height="44.255123"
+       x="193.27919"
+       y="82.566971" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.528998"
+       id="rect1906"
+       width="39.216602"
+       height="8.5868177"
+       x="193.27919"
+       y="118.23524" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="140.02478"
-       y="117.49356"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
+       x="212.7769"
+       y="123.53565"
        id="text999"><tspan
          sodipodi:role="line"
          id="tspan997"
-         style="font-size:2.82222px;fill:#000000;stroke:none;stroke-width:0.529167"
-         x="140.02478"
-         y="117.49356">P(D|H<tspan
-   style="font-size:65%;baseline-shift:sub"
+         style="font-size:3.88056px;fill:#000000;stroke:none;stroke-width:0.529167"
+         x="212.7769"
+         y="123.53565">P(D|H<tspan
+   style="font-size:3.88056px;baseline-shift:sub"
    id="tspan1123">3</tspan>)</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.528998"
+       id="rect1916"
+       width="8.7623854"
+       height="44.255123"
+       x="266.87323"
+       y="82.566971" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.528998"
+       id="rect1918"
+       width="8.7623854"
+       height="19.37538"
+       x="266.87323"
+       y="107.44667" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
-       x="188.70815"
-       y="118.02271"
-       id="text1003"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
+       x="-42.823364"
+       y="293.36804"
+       id="text1003"
+       transform="rotate(-74.955653)"><tspan
          sodipodi:role="line"
          id="tspan1001"
-         style="font-size:2.82222px;fill:#000000;stroke:none;stroke-width:0.529167"
-         x="188.70815"
-         y="118.02271">P(D|H<tspan
-   style="font-size:65%;baseline-shift:sub"
+         style="font-size:3.88056px;fill:#000000;stroke:none;stroke-width:0.529167"
+         x="-42.823364"
+         y="293.36804">P(D|H<tspan
+   style="font-size:3.88056px;baseline-shift:sub"
    id="tspan1117">N</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.529"
+       x="249.75356"
+       y="118.29523"
+       id="text1958"><tspan
+         sodipodi:role="line"
+         id="tspan1956"
+         style="font-size:11.2889px;fill:#000000;stroke-width:0.529"
+         x="249.75356"
+         y="118.29523">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
+       x="212.96387"
+       y="68.810272"
+       id="text1964"><tspan
+         sodipodi:role="line"
+         id="tspan1962"
+         style="font-size:3.88056px;fill:#000000;stroke:none;stroke-width:0.529167"
+         x="212.96387"
+         y="68.810272">P(H<tspan
+   style="font-size:3.88056px;baseline-shift:sub"
+   id="tspan1960">3</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
+       x="271.02115"
+       y="68.810272"
+       id="text1970"><tspan
+         sodipodi:role="line"
+         id="tspan1968"
+         style="font-size:3.88056px;fill:#000000;stroke:none;stroke-width:0.529167"
+         x="271.02115"
+         y="68.810272">P(H<tspan
+   style="font-size:3.88056px;baseline-shift:sub"
+   id="tspan1966">N</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
+       x="165.25043"
+       y="68.810272"
+       id="text1976"
+       inkscape:export-filename="bayes_hypotheses_square.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1974"
+         style="font-size:3.88056px;fill:#000000;stroke:none;stroke-width:0.529167"
+         x="165.25043"
+         y="68.810272">P(H<tspan
+   style="font-size:3.88056px;baseline-shift:sub"
+   id="tspan1972">1</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
+       x="384.06308"
+       y="108.47906"
+       id="text2339"><tspan
+         sodipodi:role="line"
+         id="tspan2337"
+         style="font-size:3.88056px;fill:#000000;stroke:none;stroke-width:0.529167"
+         x="384.06308"
+         y="108.47906">P(H<tspan
+   style="font-size:3.88056px;baseline-shift:sub"
+   id="tspan2335">3</tspan>|D)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
+       x="413.69656"
+       y="112.71241"
+       id="text2345"><tspan
+         sodipodi:role="line"
+         id="tspan2343"
+         style="font-size:3.88056px;fill:#000000;stroke:none;stroke-width:0.529167"
+         x="413.69656"
+         y="112.71241">P(H<tspan
+   style="font-size:3.88056px;baseline-shift:sub"
+   id="tspan2341">N</tspan>|D)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
+       x="361.30905"
+       y="102.12907"
+       id="text2351"
+       inkscape:export-filename="bayes_hypotheses_square.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan2349"
+         style="font-size:3.88056px;fill:#000000;stroke:none;stroke-width:0.529167"
+         x="361.30905"
+         y="102.12907">P(H<tspan
+   style="font-size:3.88056px;baseline-shift:sub"
+   id="tspan2347">1</tspan>|D)</tspan></text>
   </g>
 </svg>
