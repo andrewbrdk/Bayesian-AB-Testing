@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.71964929"
-     inkscape:cx="872.64729"
-     inkscape:cy="311.26273"
+     inkscape:zoom="0.46333909"
+     inkscape:cx="716.53787"
+     inkscape:cy="317.26225"
      inkscape:window-width="1280"
      inkscape:window-height="691"
      inkscape:window-x="0"
@@ -84,14 +84,14 @@
        width="6.2906437"
        height="14.149089"
        x="372.30194"
-       y="111.61459" />
+       y="112.39638" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.529"
        id="rect1557"
        width="6.2906437"
        height="10.434952"
        x="398.87527"
-       y="115.32874" />
+       y="116.11053" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
@@ -142,7 +142,7 @@
        width="6.2906437"
        height="19.737322"
        x="353.1369"
-       y="106.02638" />
+       y="106.80817" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
@@ -160,20 +160,20 @@
        xml:space="preserve"
        style="font-size:11.2889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.529"
        x="388.96362"
-       y="123.02959"
+       y="123.81136"
        id="text1589"><tspan
          sodipodi:role="line"
          id="tspan1587"
          style="font-size:11.2889px;fill:#000000;stroke-width:0.529"
          x="388.96362"
-         y="123.02959">...</tspan></text>
+         y="123.81136">...</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.528999"
        id="rect1591"
        width="6.2906437"
        height="16.275106"
        x="362.71942"
-       y="109.4886" />
+       y="110.27038" />
     <text
        xml:space="preserve"
        style="font-size:2.46944px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.529167"
@@ -214,38 +214,38 @@
          style="font-size:4.93889px;fill:#000000;stroke:none;stroke-width:0.529167"
          x="375.61627"
          y="48.56604"
-         id="tspan495">распределение гипотез H<tspan
+         id="tspan495">распределение P(H<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan1854">i</tspan></tspan></text>
+   id="tspan533">i</tspan>|D)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
        x="53.978455"
-       y="42.392429"
+       y="42.394897"
        id="text1197"><tspan
          sodipodi:role="line"
          style="font-size:4.93889px;fill:#000000;stroke:none;stroke-width:0.529167"
          x="53.978455"
-         y="42.392429"
+         y="42.394897"
          id="tspan1856">Априорное  </tspan><tspan
          sodipodi:role="line"
          style="font-size:4.93889px;fill:#000000;stroke:none;stroke-width:0.529167"
          x="53.978455"
-         y="48.56604"
-         id="tspan1850">распределение гипотез H<tspan
+         y="48.568508"
+         id="tspan1850">распределение P(H<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan1852">i</tspan></tspan></text>
+   id="tspan531">i</tspan>)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
        x="212.52071"
-       y="45.595299"
+       y="45.597771"
        id="text1201"><tspan
          sodipodi:role="line"
          id="tspan1199"
          style="font-size:4.93889px;fill:#000000;stroke:none;stroke-width:0.529167"
          x="212.52071"
-         y="45.595299">Правдоподобие P(D|H<tspan
+         y="45.597771">Правдоподобие P(D|H<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan1101">i</tspan>)</tspan></text>
     <text
@@ -263,39 +263,39 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
        x="58.096676"
-       y="81.491585"
+       y="82.267258"
        id="text847"><tspan
          sodipodi:role="line"
          id="tspan845"
          style="font-size:3.88056px;fill:#000000;stroke:none;stroke-width:0.529167"
          x="58.096676"
-         y="81.491585">P(H<tspan
+         y="82.267258">P(H<tspan
    style="font-size:3.88056px;baseline-shift:sub"
    id="tspan1089">3</tspan>)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
        x="85.613335"
-       y="114.82907"
+       y="115.60474"
        id="text851"><tspan
          sodipodi:role="line"
          id="tspan849"
          style="font-size:3.88056px;fill:#000000;stroke:none;stroke-width:0.529167"
          x="85.613335"
-         y="114.82907">P(H<tspan
+         y="115.60474">P(H<tspan
    style="font-size:3.88056px;baseline-shift:sub"
    id="tspan1091">N</tspan>)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
        x="40.634174"
-       y="97.36657"
+       y="98.142242"
        id="text855"><tspan
          sodipodi:role="line"
          id="tspan853"
          style="font-size:3.88056px;fill:#000000;stroke:none;stroke-width:0.529167"
          x="40.634174"
-         y="97.36657">P(H<tspan
+         y="98.142242">P(H<tspan
    style="font-size:3.88056px;baseline-shift:sub"
    id="tspan1085">1</tspan>)</tspan></text>
     <text
@@ -326,14 +326,14 @@
        width="6.2906437"
        height="39.4282"
        x="54.802071"
-       y="86.335518" />
+       y="87.111191" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.529"
        id="rect559"
        width="6.2906437"
        height="6.6760902"
        x="81.375458"
-       y="119.08756" />
+       y="119.86323" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
@@ -384,7 +384,7 @@
        width="6.2906437"
        height="24.597057"
        x="35.637024"
-       y="101.16666" />
+       y="101.94232" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
@@ -402,20 +402,20 @@
        xml:space="preserve"
        style="font-size:11.2889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.529"
        x="71.463791"
-       y="123.02956"
+       y="123.80522"
        id="text1551"><tspan
          sodipodi:role="line"
          id="tspan1549"
          style="font-size:11.2889px;fill:#000000;stroke-width:0.529"
          x="71.463791"
-         y="123.02956">...</tspan></text>
+         y="123.80522">...</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.529"
        id="rect1553"
        width="6.2906437"
        height="13.475793"
        x="45.219551"
-       y="112.28791" />
+       y="113.06358" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.529;marker-end:url(#marker1784)"
        d="M 99.886093,105.36908 H 136.49979"
@@ -627,33 +627,33 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
        x="384.06308"
-       y="108.47906"
+       y="109.26083"
        id="text2339"><tspan
          sodipodi:role="line"
          id="tspan2337"
          style="font-size:3.88056px;fill:#000000;stroke:none;stroke-width:0.529167"
          x="384.06308"
-         y="108.47906">P(H<tspan
+         y="109.26083">P(H<tspan
    style="font-size:3.88056px;baseline-shift:sub"
    id="tspan2335">3</tspan>|D)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
        x="413.69656"
-       y="112.71241"
+       y="113.49419"
        id="text2345"><tspan
          sodipodi:role="line"
          id="tspan2343"
          style="font-size:3.88056px;fill:#000000;stroke:none;stroke-width:0.529167"
          x="413.69656"
-         y="112.71241">P(H<tspan
+         y="113.49419">P(H<tspan
    style="font-size:3.88056px;baseline-shift:sub"
    id="tspan2341">N</tspan>|D)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167"
        x="361.30905"
-       y="102.12907"
+       y="102.91084"
        id="text2351"
        inkscape:export-filename="bayes_hypotheses_square.png"
        inkscape:export-xdpi="96"
@@ -662,7 +662,7 @@
          id="tspan2349"
          style="font-size:3.88056px;fill:#000000;stroke:none;stroke-width:0.529167"
          x="361.30905"
-         y="102.12907">P(H<tspan
+         y="102.91084">P(H<tspan
    style="font-size:3.88056px;baseline-shift:sub"
    id="tspan2347">1</tspan>|D)</tspan></text>
   </g>
