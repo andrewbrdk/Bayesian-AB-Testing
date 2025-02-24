@@ -8,8 +8,8 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="bayes_keys.svg"
-   inkscape:export-filename="bayes_rain.png"
+   sodipodi:docname="bayes_park.svg"
+   inkscape:export-filename="bayes_park.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,11 +27,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.45969337"
-     inkscape:cx="482.93061"
-     inkscape:cy="287.14793"
-     inkscape:window-width="1280"
-     inkscape:window-height="691"
+     inkscape:zoom="0.80814295"
+     inkscape:cx="569.82493"
+     inkscape:cy="374.93367"
+     inkscape:window-width="1536"
+     inkscape:window-height="835"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -71,7 +71,7 @@
        height="63.389755"
        x="75.929893"
        y="57.082314"
-       inkscape:export-filename="bayes_square.png"
+       inkscape:export-filename="bayes_park.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -82,30 +82,30 @@
        x="75.929886"
        y="57.082314" />
     <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.528998"
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect485"
        width="68.12278"
        height="12.551782"
        x="75.929901"
        y="107.92029" />
     <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.529"
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect487"
-       width="17.522612"
-       height="57.960987"
-       x="221.31252"
-       y="62.511086" />
+       width="17.478237"
+       height="46.612362"
+       x="221.28642"
+       y="73.885803" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
-       x="168.75696"
-       y="52.369274"
+       x="167.50914"
+       y="52.487808"
        id="text361"><tspan
          sodipodi:role="line"
          id="tspan359"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
-         x="168.75696"
-         y="52.369274">P(Другой карман)</tspan></text>
+         x="167.50914"
+         y="52.487808">P(Лужа)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
@@ -116,7 +116,7 @@
          id="tspan413"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
          x="109.85053"
-         y="52.487808">P(На столе)</tspan></text>
+         y="52.487808">P(Листья)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
@@ -127,34 +127,34 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
          x="109.99376"
          y="112.30458"
-         id="tspan411">На столе,</tspan><tspan
+         id="tspan411">Очертания,</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
          x="109.99376"
          y="118.4782"
-         id="tspan468">забыли</tspan></text>
+         id="tspan468">листья</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
-       x="43.210011"
-       y="108.46094"
+       x="44.268345"
+       y="108.9901"
        id="text427"><tspan
          sodipodi:role="line"
          id="tspan425"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
-         x="43.210011"
-         y="108.46094">P(Забыли|На столе)</tspan></text>
+         x="44.268345"
+         y="108.9901">P(Очертания|Листья)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
-       x="268.63516"
-       y="63.481785"
+       x="268.10599"
+       y="76.181793"
        id="text431"><tspan
          sodipodi:role="line"
          id="tspan429"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
-         x="268.63516"
-         y="63.481785">P(Забыли|Шкаф)</tspan></text>
+         x="268.10599"
+         y="76.181793">P(Очертания|Шапка)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
@@ -177,50 +177,70 @@
        x="221.26006"
        y="57.082314" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.528998"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect470"
-       width="48.860424"
-       height="63.389755"
-       x="144.51154"
-       y="57.082314" />
+       width="46.649677"
+       height="63.401814"
+       x="143.97635"
+       y="57.076286" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
-       x="207.23822"
-       y="52.285313"
+       x="205.43323"
+       y="52.487808"
        id="text474"><tspan
          sodipodi:role="line"
          id="tspan472"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
-         x="207.23822"
-         y="52.285313">P(Сумка)</tspan></text>
+         x="205.43323"
+         y="52.487808">P(Птица)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
-       x="229.93306"
-       y="52.374214"
+       x="230.21217"
+       y="52.487808"
        id="text478"><tspan
          sodipodi:role="line"
          id="tspan476"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
-         x="229.93306"
-         y="52.374214">P(Шкаф)</tspan></text>
+         x="230.21217"
+         y="52.487808">P(Шапка)</tspan></text>
     <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.528998"
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.486944;stroke-dasharray:none"
        id="rect480"
-       width="48.726707"
-       height="24.165489"
-       x="144.53436"
-       y="96.30658" />
+       width="46.436825"
+       height="7.3872981"
+       x="144.1041"
+       y="113.06081" />
     <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.528998"
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.529049;stroke-dasharray:none"
        id="rect482"
-       width="27.557718"
-       height="32.076275"
-       x="193.60013"
-       y="88.39579"
+       width="30.516012"
+       height="19.075207"
+       x="190.64337"
+       y="101.35698"
        inkscape:export-filename="bayes_keys.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
+       x="-28.747997"
+       y="250.66237"
+       id="text1027"
+       transform="rotate(-72.032613)"
+       inkscape:export-filename="bayes_park.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
+         x="-28.747997"
+         y="250.66237"
+         id="tspan1023">Очертания,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
+         x="-28.747997"
+         y="256.83597"
+         id="tspan1025">шапка</tspan></text>
   </g>
 </svg>
