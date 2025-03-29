@@ -1,3 +1,6 @@
 .ipynb_checkpoints/
 drafts
 venv
+pyvenv
+figs/ch?_*
+vids
