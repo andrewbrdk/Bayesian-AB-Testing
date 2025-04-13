@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="bayes_rain.svg"
+   sodipodi:docname="en_bayes_rain.svg"
    inkscape:export-filename="bayes_rain.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.6949202"
-     inkscape:cx="430.98474"
-     inkscape:cy="289.24184"
+     inkscape:zoom="0.63288573"
+     inkscape:cx="435.30765"
+     inkscape:cy="110.60448"
      inkscape:window-width="1536"
      inkscape:window-height="835"
      inkscape:window-x="0"
@@ -71,7 +71,7 @@
        height="63.389755"
        x="60.054901"
        y="57.082314"
-       inkscape:export-filename="bayes_square.png"
+       inkscape:export-filename="en_bayes_rain.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <rect
@@ -105,7 +105,7 @@
          id="tspan359"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
          x="129.46416"
-         y="50.781776">P(Без дождя)</tspan></text>
+         y="50.781776">P(No Rain)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
@@ -116,7 +116,7 @@
          id="tspan413"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
          x="71.477928"
-         y="50.781776">P(Дождь)</tspan></text>
+         y="50.781776">P(Rain)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
@@ -127,12 +127,12 @@
          id="tspan417"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
          x="72.314178"
-         y="104.2276">Облачно,</tspan><tspan
+         y="104.2276">Clouds,</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
          x="72.314178"
          y="110.40121"
-         id="tspan411">дождь</tspan></text>
+         id="tspan411">Rain</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
@@ -143,29 +143,29 @@
          id="tspan421"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
          x="130.68593"
-         y="115.20797">Облачно, без дождя</tspan></text>
+         y="115.20797">Clouds, No Rain</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
-       x="32.626675"
+       x="37.389179"
        y="86.235939"
        id="text427"><tspan
          sodipodi:role="line"
          id="tspan425"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
-         x="32.626675"
-         y="86.235939">P(Облачно|Дождь)</tspan></text>
+         x="37.389179"
+         y="86.235939">P(Clouds|Rain)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
-       x="209.89757"
+       x="204.60597"
        y="110.04842"
        id="text431"><tspan
          sodipodi:role="line"
          id="tspan429"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.529"
-         x="209.89757"
-         y="110.04842">P(Облачно|Без дождя)</tspan></text>
+         x="204.60597"
+         y="110.04842">P(Clouds|No Rain)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"

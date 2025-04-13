@@ -8,10 +8,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="ab_test.svg"
-   inkscape:export-filename="/home/andrew/Pictures/ab_test.png"
-   inkscape:export-xdpi="100"
-   inkscape:export-ydpi="100"
+   sodipodi:docname="ab_test_en.svg"
+   inkscape:export-filename="./ab_test_en.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -160,9 +160,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.56424577"
-     inkscape:cx="326.98517"
-     inkscape:cy="443.06934"
+     inkscape:zoom="0.87642283"
+     inkscape:cx="456.97121"
+     inkscape:cy="136.92021"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -186,7 +186,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -201,7 +200,7 @@
        d="m 120.61948,118.90678 v 21.30847 h 36.80812"
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1201);marker-end:url(#Arrow1L)"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="ab_test.png"
+       inkscape:export-filename="./ab_test_en.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <rect
@@ -330,80 +329,80 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.49677px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.163911"
-       x="12.432047"
-       y="91.813019"
+       x="21.376179"
+       y="92.871353"
        id="text875"><tspan
          sodipodi:role="line"
          id="tspan873"
-         x="12.432047"
-         y="91.813019"
-         style="stroke-width:0.163911">Все пользователи</tspan></text>
+         x="21.376179"
+         y="92.871353"
+         style="stroke-width:0.163911">All Users</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.49677px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.163911"
-       x="80.941818"
+       x="88.515823"
        y="77.814209"
        id="text879"><tspan
          sodipodi:role="line"
          id="tspan877"
-         x="80.941818"
+         x="88.515823"
          y="77.814209"
-         style="stroke-width:0.163911">Пользователи A</tspan></text>
+         style="stroke-width:0.163911">Users A</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.49677px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.163911"
-       x="54.022308"
-       y="69.856087"
+       x="55.286392"
+       y="69.55217"
        id="text887"><tspan
          sodipodi:role="line"
          id="tspan885"
-         x="54.022308"
-         y="69.856087"
-         style="stroke-width:0.163911">Вариант А</tspan></text>
+         x="55.286392"
+         y="69.55217"
+         style="stroke-width:0.163911">Version A</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.49677px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.163911"
-       x="54.151688"
-       y="112.57111"
+       x="55.359825"
+       y="112.5462"
        id="text891"><tspan
          sodipodi:role="line"
          id="tspan889"
-         x="54.151688"
-         y="112.57111"
-         style="stroke-width:0.163911">Вариант Б</tspan></text>
+         x="55.359825"
+         y="112.5462"
+         style="stroke-width:0.163911">Version B</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.49677px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.163911"
-       x="129.02664"
-       y="69.947006"
+       x="132.29027"
+       y="70.575539"
        id="text895"><tspan
          sodipodi:role="line"
          id="tspan893"
-         x="129.02664"
-         y="69.947006"
-         style="stroke-width:0.163911">Данные А</tspan></text>
+         x="132.29027"
+         y="70.575539"
+         style="stroke-width:0.163911">Data A</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.49677px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.163911"
-       x="129.15602"
-       y="112.66203"
+       x="132.29027"
+       y="113.60454"
        id="text899"><tspan
          sodipodi:role="line"
          id="tspan897"
-         x="129.15602"
-         y="112.66203"
-         style="stroke-width:0.163911">Данные Б</tspan></text>
+         x="132.29027"
+         y="113.60454"
+         style="stroke-width:0.163911">Data B</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.49677px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.163911"
-       x="177.13705"
+       x="178.75108"
        y="87.786324"
        id="text903"><tspan
          sodipodi:role="line"
          id="tspan901"
-         x="177.13705"
+         x="178.75108"
          y="87.786324"
-         style="stroke-width:0.163911">Сравнение А и Б</tspan></text>
+         style="stroke-width:0.163911">Compare A &amp; B</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37.7953;stroke-opacity:1"
        id="rect831-3"
@@ -414,14 +413,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49669px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.163911"
-       x="239.1581"
+       x="239.23851"
        y="87.857986"
        id="text887-6"><tspan
          sodipodi:role="line"
-         x="239.1581"
+         x="239.23851"
          y="87.857986"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49669px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.163911"
-         id="tspan1544">Выбор варианта</tspan></text>
+         id="tspan1544">Select Version</tspan></text>
     <circle
        r="4.1675434"
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10;stroke-opacity:1"
@@ -431,14 +430,14 @@
     <text
        id="text868"
        y="121.99961"
-       x="81.071205"
+       x="88.589249"
        style="font-style:normal;font-weight:normal;font-size:3.49677px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.163911"
        xml:space="preserve"><tspan
          style="stroke-width:0.163911"
          y="121.99961"
-         x="81.071205"
+         x="88.589249"
          id="tspan866"
-         sodipodi:role="line">Пользователи Б</tspan></text>
+         sodipodi:role="line">Users B</tspan></text>
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264584;stroke-dasharray:1.05833, 1.05833;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1460)"
        d="M 36.340626,98.639071 52.965817,86.532814"
@@ -542,7 +541,7 @@
            id="tspan2856"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.397;stroke-opacity:1"
            x="185.72711"
-           y="98.758972">А</tspan></text>
+           y="98.758972">A</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.396999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -553,7 +552,7 @@
            id="tspan2860"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.397;stroke-opacity:1"
            x="192.02136"
-           y="107.571">Б</tspan></text>
+           y="107.571">B</tspan></text>
     </g>
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264582;stroke-dasharray:1.05833, 1.05833;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1460)"

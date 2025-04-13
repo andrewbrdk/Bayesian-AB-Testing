@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg543"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="ab_metric_random_en.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview545"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.90320715"
+     inkscape:cx="319.41731"
+     inkscape:cy="476.08126"
+     inkscape:window-width="1536"
+     inkscape:window-height="835"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs540">
+    <marker
+       style="overflow:visible"
+       id="marker2136"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2134"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1L"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L"
+         transform="scale(-0.5)" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1712"
+       style="opacity:1;fill:none"
+       transform="translate(1.0583333)"
+       inkscape:export-filename="ab_metric_random_en.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+         d="m 86.856438,63.591778 c 0,0 -5.506062,-0.352001 -11.012119,27.456213 -2.292693,11.579189 -4.143453,23.905859 -10.004532,28.999479 -7.034316,6.11323 -15.196276,5.32079 -15.196276,5.32079 h 72.442749 c 0,0 -8.16196,0.79244 -15.19628,-5.32079 C 102.0289,114.95385 100.17814,102.62718 97.885437,91.047991 92.37938,63.239777 86.873318,63.591778 86.873318,63.591778"
+         id="path1118"
+         sodipodi:nodetypes="cssccssc" />
+    </g>
+    <g
+       id="g1716"
+       style="opacity:1;fill:none;stroke:#000000"
+       transform="translate(39.158336)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+         d="m 86.856438,63.591778 c 0,0 -5.506062,-0.352001 -11.012119,27.456213 -2.292693,11.579189 -4.143453,23.905859 -10.004532,28.999479 -7.034316,6.11323 -15.196276,5.32079 -15.196276,5.32079 h 72.442749 c 0,0 -8.16196,0.79244 -15.19628,-5.32079 C 102.0289,114.95385 100.17814,102.62718 97.885437,91.047991 92.37938,63.239777 86.873318,63.591778 86.873318,63.591778"
+         id="path1714"
+         sodipodi:nodetypes="cssccssc" />
+    </g>
+    <g
+       id="g73"
+       transform="matrix(0.26458333,0,0,0.26458333,-6.3520293,35.150165)"
+       inkscape:export-filename="ab_dynamics.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <title
+         id="title61">Layer 1</title>
+      <line
+         stroke-linecap="undefined"
+         stroke-linejoin="undefined"
+         id="svg_2"
+         y2="112.6373"
+         x2="193"
+         y1="358.67963"
+         x1="193"
+         stroke="#000000"
+         fill="none"
+         style="stroke-width:2.00000003;marker-end:url(#marker2136);stroke-dasharray:none" />
+      <line
+         stroke-linecap="undefined"
+         stroke-linejoin="undefined"
+         id="svg_3"
+         y2="340.99997"
+         x2="646.58521"
+         y1="340.99997"
+         x1="170.07993"
+         stroke="#000000"
+         fill="none"
+         style="stroke-width:2.00000003;marker-end:url(#Arrow1L);stroke-dasharray:none" />
+      <line
+         stroke-linecap="undefined"
+         stroke-linejoin="undefined"
+         id="svg_5"
+         y2="111.23262"
+         x2="343.40231"
+         y1="341.14917"
+         x1="343.40231"
+         stroke-dasharray="5.10459, 5.10459"
+         stroke="#000000"
+         fill="none"
+         style="stroke-width:2.00000003;stroke-dasharray:9.99998005,9.99998005;stroke-dashoffset:0" />
+      <text
+         xml:space="preserve"
+         text-anchor="start"
+         font-family="'Noto Sans JP'"
+         font-size="24px"
+         id="svg_6"
+         y="146.06195"
+         x="206.37247"
+         stroke-dasharray="5, 5"
+         stroke-width="0"
+         stroke="#000000"
+         fill="#000000">Estimate A</text>
+      <text
+         xml:space="preserve"
+         text-anchor="start"
+         font-family="'Noto Sans JP'"
+         font-size="24px"
+         id="svg_7"
+         y="110.06195"
+         x="524.50635"
+         stroke-dasharray="5, 5"
+         stroke-width="0"
+         stroke="#000000"
+         fill="#000000">Estimate B</text>
+      <text
+         xml:space="preserve"
+         text-anchor="start"
+         font-family="'Noto Sans JP'"
+         font-size="24px"
+         id="svg_9"
+         y="375.94266"
+         x="623.22357"
+         stroke-dasharray="5, 5"
+         stroke-width="0"
+         stroke="#000000"
+         fill="#000000">Metric</text>
+      <path
+         id="svg_16"
+         d="M 224,298"
+         opacity="0"
+         stroke="#000000"
+         fill="none" />
+      <path
+         id="svg_17"
+         d="M 230,298"
+         opacity="0"
+         stroke="#000000"
+         fill="none" />
+      <line
+         stroke-dasharray="5.15929, 5.15929"
+         stroke-linecap="undefined"
+         stroke-linejoin="undefined"
+         id="svg_4"
+         y2="112.02886"
+         x2="494.51431"
+         y1="340.3252"
+         x1="494.51431"
+         stroke="#000000"
+         fill="none"
+         style="fill:#000000;stroke:#000000;stroke-width:2.00000003;stroke-dasharray:9.99998049,9.99998049;stroke-dashoffset:0" />
+      <text
+         xml:space="preserve"
+         text-anchor="start"
+         font-family="'Noto Sans JP'"
+         font-size="24px"
+         id="text445"
+         y="375.94266"
+         x="456.50635"
+         stroke-dasharray="5, 5"
+         stroke-width="0"
+         stroke="#000000"
+         fill="#000000">Exact B</text>
+      <text
+         xml:space="preserve"
+         text-anchor="start"
+         font-family="'Noto Sans JP'"
+         font-size="24px"
+         id="text447"
+         y="376.01465"
+         x="298.50635"
+         stroke-dasharray="5, 5"
+         stroke-width="0"
+         stroke="#000000"
+         fill="#000000">Exact A</text>
+    </g>
+    <text
+       xml:space="preserve"
+       text-anchor="start"
+       font-family="'Noto Sans JP'"
+       font-size="6.35px"
+       id="svg_9-3"
+       y="63.438999"
+       x="22.142796"
+       stroke-dasharray="1.32292, 1.32292"
+       stroke-width="0"
+       stroke="#000000"
+       fill="#000000"><tspan
+         sodipodi:role="line"
+         id="tspan1024"
+         x="22.142796"
+         y="63.438999"
+         style="text-align:center;text-anchor:middle">Probability</tspan><tspan
+         sodipodi:role="line"
+         id="tspan1026"
+         x="22.142796"
+         y="71.376495"
+         style="text-align:center;text-anchor:middle">density</tspan></text>
+  </g>
+</svg>

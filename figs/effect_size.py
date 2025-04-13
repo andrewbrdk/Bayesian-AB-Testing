@@ -18,18 +18,41 @@ p_inc = p*1.03
 ns_inc = stats.binom.rvs(n=N, p=p_inc, size=len(d)//2)
 cr_inc = ns_inc / N
 
+# fig = go.Figure()
+# fig.add_trace(go.Scatter(x=d, y=cr*100,
+                        # name='Базовое значение', line_color='black'))
+# fig.add_trace(go.Scatter(x=d[len(d)//2-1:],
+                         # y=np.concatenate([cr[[len(d)//2-1]]*100, cr_drop*100]),
+                         # name='-30%', line_color='black', line_dash='dash'))
+# fig.add_trace(go.Scatter(x=d[len(d)//2-1:],
+                         # y=np.concatenate([cr[[len(d)//2-1]]*100, cr_inc*100]),
+                         # name='+3%', line_color='black', opacity=0.4, line_dash='dash'))
+# fig.update_layout(title='Эффект',
+                  # xaxis_title='Дни',
+                  # yaxis_title='Метрика',
+                  # xaxis_range=[0, len(d)-1],
+                  # xaxis_showticklabels=False,
+                  # yaxis_range=[1, 7],
+                  # yaxis_showticklabels=False,
+                  # hovermode="x",
+                  # barmode="group",
+                  # width=900)
+# fig.show()
+# fig.write_image("./effect_size.png", scale=2)
+
+
 fig = go.Figure()
 fig.add_trace(go.Scatter(x=d, y=cr*100, 
-                        name='Базовое значение', line_color='black'))
+                         name='Baseline', line_color='black'))
 fig.add_trace(go.Scatter(x=d[len(d)//2-1:], 
                          y=np.concatenate([cr[[len(d)//2-1]]*100, cr_drop*100]),
                          name='-30%', line_color='black', line_dash='dash'))
 fig.add_trace(go.Scatter(x=d[len(d)//2-1:], 
                          y=np.concatenate([cr[[len(d)//2-1]]*100, cr_inc*100]),
                          name='+3%', line_color='black', opacity=0.4, line_dash='dash'))
-fig.update_layout(title='Эффект',
-                  xaxis_title='Дни',
-                  yaxis_title='Метрика',
+fig.update_layout(title='<b>Effect</b>',
+                  xaxis_title='Days',
+                  yaxis_title='Metric',
                   xaxis_range=[0, len(d)-1],
                   xaxis_showticklabels=False,
                   yaxis_range=[1, 7],
@@ -39,4 +62,4 @@ fig.update_layout(title='Эффект',
                   width=900)
 fig.show()
 
-#fig.write_image("./effect_size.png", scale=2)
+fig.write_image("./en_effect_size.png", scale=3)
