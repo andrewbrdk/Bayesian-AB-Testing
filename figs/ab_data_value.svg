@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg543"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="ab_data_value.svg"
+   inkscape:export-filename="ab_data_value.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview545"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4334992"
+     inkscape:cx="387.16451"
+     inkscape:cy="350.19204"
+     inkscape:window-width="1536"
+     inkscape:window-height="835"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs540">
+    <linearGradient
+       id="linearGradient4516"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4514" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="marker2136"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2134"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1L"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L"
+         transform="scale(-0.5)" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <line
+       stroke-linecap="undefined"
+       stroke-linejoin="undefined"
+       id="svg_2"
+       y2="64.952118"
+       x2="44.712555"
+       y1="130.05081"
+       x1="44.712555"
+       stroke="#000000"
+       fill="none"
+       style="stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#marker2136)"
+       inkscape:export-filename="ab_data_value.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <line
+       stroke-linecap="undefined"
+       stroke-linejoin="undefined"
+       id="svg_3"
+       y2="125.37307"
+       x2="164.72363"
+       y1="125.37307"
+       x1="38.648285"
+       stroke="#000000"
+       fill="none"
+       style="stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Arrow1L)" />
+    <text
+       xml:space="preserve"
+       text-anchor="start"
+       font-family="'Noto Sans JP'"
+       font-size="6.35px"
+       id="svg_9"
+       y="134.61833"
+       x="163.83421"
+       stroke-dasharray="1.32292, 1.32292"
+       stroke-width="0"
+       stroke="#000000"
+       fill="#000000"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         id="tspan4568">N</tspan></text>
+    <path
+       id="svg_16"
+       d="M 52.914637,113.996"
+       opacity="0"
+       stroke="#000000"
+       fill="none"
+       style="stroke-width:0.264583" />
+    <path
+       id="svg_17"
+       d="M 54.502137,113.996"
+       opacity="0"
+       stroke="#000000"
+       fill="none"
+       style="stroke-width:0.264583" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.465028;stroke-miterlimit:2;stroke-dasharray:3.72022, 1.86011;stroke-dashoffset:0"
+       d="M 46.444434,102.87272 H 146.88265"
+       id="path1712" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 58.3784,71.041362 C 69.410527,101.15767 94.185361,113.6042 145.946,116.11292"
+       id="path2534"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-miterlimit:2;stroke-dasharray:3.97031, 1.98516;stroke-dashoffset:0;stroke-opacity:1"
+       x="148.28587"
+       y="98.884399"
+       id="text2538"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-opacity:1"
+         x="148.28587"
+         y="98.884399"
+         id="tspan4579">Стоимость данных</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.499999;stroke-miterlimit:2;stroke-dasharray:3.97031, 1.98516;stroke-dashoffset:0;stroke-opacity:1"
+       x="73.337692"
+       y="66.728561"
+       id="text4585"><tspan
+         sodipodi:role="line"
+         id="tspan4583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';stroke-width:0.5"
+         x="73.337692"
+         y="66.728561">Ценность</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';stroke-width:0.5"
+         x="73.337692"
+         y="73.054138"
+         id="tspan4587">данных</tspan></text>
+  </g>
+</svg>
