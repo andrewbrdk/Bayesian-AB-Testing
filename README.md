@@ -11,5 +11,20 @@
 
 &nbsp;  
 
-[Байесовская_оценка_АБ-тестов.ipynb](https://github.com/andrewbrdk/Bayesian-AB-Testing/blob/main/%D0%91%D0%B0%D0%B9%D0%B5%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B0_%D0%90%D0%91-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2.ipynb). Описана механика А/Б-тестов. Рассмотрены примеры байесовского моделирования. Байесовская оценка применена к сравнению конверсий, средних, транзакционной выручки на пользователя, заказов на посетителя. [Видео](https://www.youtube.com/playlist?list=PLqgtGAeapsOPpV0FqeXEpWosHBW8ZebYl), [Хабр](https://habr.com/ru/articles/885936/).  
-[appendices/Множественные_сравнения.ipynb](https://github.com/andrewbrdk/Bayesian-AB-Testing/blob/main/appendices/Множественные_сравнения.ipynb). Байесовский подход применен к А/Б-тесту конверсий с 3 группами. Лучшая группа выбирается сравнением апостериорных распределений. Способ применим для других метрик и большего количества вариантов. [Видео](https://youtu.be/nfCoDUHrJeQ), [Хабр](https://habr.com/ru/articles/903820/).  
+[Байесовская_оценка_АБ-тестов.ipynb](https://github.com/andrewbrdk/Bayesian-AB-Testing/blob/main/%D0%91%D0%B0%D0%B9%D0%B5%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B0_%D0%90%D0%91-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2.ipynb). Описана механика А/Б-тестов. Рассмотрены примеры байесовского моделирования. Байесовская оценка применена к сравнению конверсий, средних, транзакционной выручки на пользователя, заказов на посетителя.   
+[appendices/Множественные_сравнения.ipynb](https://github.com/andrewbrdk/Bayesian-AB-Testing/blob/main/appendices/Множественные_сравнения.ipynb). Байесовский подход применен к А/Б-тесту конверсий с 3 группами. Лучшая группа выбирается сравнением апостериорных распределений. Способ применим для других метрик и большего количества вариантов.
+
+[Видео](https://www.youtube.com/playlist?list=PLqgtGAeapsOPpV0FqeXEpWosHBW8ZebYl)
+<p align="center">
+    <a href="https://www.youtube.com/playlist?list=PLqgtGAeapsOPpV0FqeXEpWosHBW8ZebYl">
+        <img src="https://i.postimg.cc/6BGhFq46/bayes-ab-youtube-cover.png" width="800"/>
+    </a>
+</p>
+
+
+[Stepik: видео и задачи](https://stepik.org/course/249642/promo)
+<p align="center">
+    <a href="https://stepik.org/course/249642/promo">
+        <img src="https://i.postimg.cc/BqmBRVBs/bayes-ab-stepik-cover.png" height="400"/>
+    </a>
+</p>
