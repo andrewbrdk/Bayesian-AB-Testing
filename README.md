@@ -8,6 +8,7 @@
 
 [Bayesian-AB-Testing.ipynb](https://github.com/andrewbrdk/Bayesian-AB-Testing/blob/main/Bayesian-AB-Testing.ipynb). A/B testing is reviewed, and Bayesian modelling is discussed. Conversions, means, transactional revenue per user, and orders per visitor are compared in Bayesian approach.  
 [appendices/Multiple_Comparisons.ipynb](https://github.com/andrewbrdk/Bayesian-AB-Testing/blob/main/appendices/Multiple_Comparisons.ipynb). A Bayesian approach is applied to a three variant conversions A/B test. The best group is selected by posterior distributions comparison. The method is applicable to other metrics and a greater number of variants.  
+[appendices/Connection_to_p_values.ipynb](https://github.com/andrewbrdk/Bayesian-AB-Testing/blob/main/appendices/Connection_to_p_values.ipynb). The $p$-values from the $t$-test, $\chi^2$-test, and Mann-Whitney $U$ test in A/B experiments are numerically close to the Bayesian best group probabilities. This relation holds despite differences in the underlying definitions.   
 
 &nbsp;  
 
